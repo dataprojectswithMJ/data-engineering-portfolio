@@ -3,7 +3,7 @@ The project behind this portfolio is an open source data API that I built and ma
 <br></br>
 ----------------------------------
 [__You can try the API__](https://covidza-data.deta.dev/docs)
-<img src='API_test.png' width='800'>
+<img src='/COVID-API-ZA/images/API_test.png' width='800'>
 <br></br>
 -----------------------------------
 
@@ -26,7 +26,7 @@ Fortunately, the <a href="https://www.nicd.ac.za/">NICD website</a> has PDF docu
 Raw data | Formatted data
 ---|---
 PDF table | NoSQL database record
-<img src="PDF%20Data.png" width=450/> | <img src="db_record.png" width=450/>
+<img src="/COVID-API-ZA/images/PDF%20Data.png" width=450/> | <img src="/COVID-API-ZA/images/db_record.png" width=450/>
 
 ---------------------------------------
 The code is split into 2 files __Extraction__ and __Transformation__. The __Load__ code exist in both scripts because there are pieces of data stored to the database from both stages.
