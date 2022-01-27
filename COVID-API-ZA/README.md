@@ -1,7 +1,5 @@
-# Welcome to my Data engineering portfolio
-The project behind this portfolio is an open source data API that I built and maintain..
-<br></br>
-----------------------------------
+### Welcome to my Data engineering project 1:
+# Open Source COVID Data API
 [__You can try the API__](https://covidza-data.deta.dev/docs)
 <img src='/COVID-API-ZA/images/API_test.png' width='800'>
 <br></br>
